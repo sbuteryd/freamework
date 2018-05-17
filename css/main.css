@@ -1,0 +1,103 @@
+/**{*/
+    /*border: 1px solid red;*/
+/*}*/
+*{
+    box-sizing: border-box;flex-wrap: nowrap;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.conter{
+    margin: 0 auto;
+    max-width: 960px;
+    width: 100%;
+}
+.row{
+    display: flex;;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.col_1{
+    width: 8.3%;
+}
+
+.col_2{
+    width: 16.66%;
+}
+
+.col_3{
+    width: 25%;
+}
+
+.col_4{
+    width: 33.333%;
+}
+.col_5{
+    width: 41.66%;
+}
+.col_6{
+    width: 50%;
+}
+.col_7{
+    width: 58.33%;
+}
+.col_8{
+    width: 66.66%;
+}
+.col_9{
+    width: 75%;
+}
+.col_10{
+    width: 83.33%;
+}
+.col_11{
+    width: 91.66%;
+}
+.col_12{
+    width: 100%;
+}
+
+
+.conter_list{
+    margin-left: 5px;
+}
+.logo{
+    border-radius: 50px;
+}
+
+.title_name{
+    text-align: right;
+}
+.title_jane{
+    letter-spacing: 5px;
+    margin-bottom: -4px;
+    color: #BCBBBB;
+}
+.title_front{
+    letter-spacing: 1px;
+    color: #BCBBBB;
+}
+
+h2 {
+    letter-spacing: 5px;
+    color: #BCBBBB;
+}
+
+h3{
+    color: #747704;
+}
+
+.fist{
+    margin-right: 32px;
+}
+.second{
+    margin-right: 32px;
+}
+
+.col_app{
+    text-align: center;
+}
+
+

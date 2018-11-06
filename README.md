@@ -13,3 +13,6 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 ```
+##  Preview
+![home](https://github.com/sbuteryd/freamework/blob/master/image/framework_view.png)
+
